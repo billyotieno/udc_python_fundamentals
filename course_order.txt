@@ -1,0 +1,12 @@
+ORDER OF COMPLETION OF PROGRAMMING LANGUAGE
+===========================================
+
+1. Python Programming - DONE
+2. Data Types and Operators - DONE
+3. Data Structures in Python - DONE
+4. Control Flow
+5. Functions **** TARGET BEFORE SLEEP
+6. Scripting
+7. Numpy
+8. Pandas
+9. Advanced Topics
